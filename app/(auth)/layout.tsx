@@ -12,7 +12,7 @@ export default function Authlayout({
             <Image
                 src={BackgroundImage}
                 alt="Netflix Logo"
-                className="hidden sm:flex sm:object-cover -z-10 brightness-50"
+                className="hidden sm:flex sm:object-cover -z-10 brightness-50 sm:flex sm:object-cover -z-10"
                 priority
                 fill
             />
